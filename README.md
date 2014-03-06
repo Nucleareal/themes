@@ -1,6 +1,8 @@
 ﻿Twitterクライアント StarryEyes ( http://krile.starwing.net/ ) のテーマです。
 
 現在
-* Blood Underground (赤基調, ダーク)
+* Scarlet Tear (赤基調, ダーク)
+* Deep Knowledge (紫基調, ダーク)
+* Starry lime (デフォルト改変, ライト)
 
 があります
